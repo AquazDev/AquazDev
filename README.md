@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AquazDev</h1>
-- I’m currently working on **Epic Games - Fortnite Tools**
+I’m currently working on Epic Games - Fortnite Tools
 
 
 <h3 align="left">Languages and Tools:</h3>
