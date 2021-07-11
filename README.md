@@ -1,8 +1,4 @@
-# Welcome!
-
-My Name Is AquazDev I'm A PY Developer Now I working on Fortnite Tools.
-
-## Projects I've Make
+## My Projects
 
 * **[FNAuth](https://github.com/AquazDev/FNAuth):** 
   * **Description »** Epic Games Authedication Tool
